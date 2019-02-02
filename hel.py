@@ -1,3 +1,3 @@
-N=int(input())
-for i in range(N):
+p=int(input())
+for i in range(p):
 	print("Hello")
