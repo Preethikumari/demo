@@ -1,9 +1,7 @@
-a = int(input())
-if a > 1:
-   for i in range(2,a):
-       if (a % i) == 0:
-           break
-   else:
-       print("yes")
+a=int(input())
+for i in range(2, int(a/2)):
+	if a%i==0:
+		print("no")
+		break
 else:
-   print("no")
+	print("yes")
