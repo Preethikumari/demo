@@ -3,6 +3,6 @@ def power(y,z):
         return(y)
     if(z!=1):
         return(y*power(y,z-1))
-y=int(input())
-z=int(input())
-print(power(y,z))
+    y=int(input()
+    z=int(input())
+    print(power(y,z))
