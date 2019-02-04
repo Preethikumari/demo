@@ -1,6 +1,6 @@
-a=int(input())
-b=int(input())
-a=a^b
-b=a^b
-a=a^b
-print(a,b)
+y=int(input())
+z=int(input())
+y=y^z
+z=y^z
+y=y^z
+print(y,z)
