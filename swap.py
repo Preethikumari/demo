@@ -1,5 +1,5 @@
-y=int(input())
-z=int(input())
+y=150
+z=160
 y=y^z
 z=y^z
 y=y^z
